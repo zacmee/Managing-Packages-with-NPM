@@ -1,10 +1,9 @@
 {
-	"author":  "zacmee",
+	"author": "zacmee",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
-		
 	},
 	"main": "server.js",
 	"scripts": {
